@@ -2,17 +2,7 @@
 
 Este es un proyecto FullStack desarrollado con **React (Vite)** en el frontend y **Node.js + Express** en el backend. El objetivo es gestionar productos y usuarios, permitiendo operaciones CRUD completas y exportación a PDF.
 
----
 
-## 📁 Estructura del proyecto
-
-mi-proyecto/
-├── frontend/ # React + Vite + PrimeReact
-├── backend/ # Node.js + Express
-└── README.md # Este archivo
-
-
----
 
 ## 🚀 Tecnologías utilizadas
 
@@ -30,7 +20,6 @@ mi-proyecto/
 - Express
 - CORS
 - Body-parser
-- (Opcional) `nodemon` para desarrollo
 
 ---
 
@@ -39,8 +28,7 @@ mi-proyecto/
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/mi-proyecto.git
-cd mi-proyecto
+git clone https://github.com/NicoCardinali/react_node.git
 
 2️⃣ Backend (Node.js)
 
@@ -48,7 +36,7 @@ cd backend
 npm install
 npm run dev
 
-    📌 El backend corre por defecto en http://localhost:3001
+    📌 El backend corre por defecto en http://localhost:3000
 
 3️⃣ Frontend (React)
 
