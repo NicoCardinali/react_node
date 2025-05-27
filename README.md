@@ -29,6 +29,9 @@ Este es un proyecto FullStack desarrollado con **React (Vite)** en el frontend y
 ```bash
 git clone https://github.com/NicoCardinali/react_node.git
 
+
+cd react_node
+
 2️⃣ Backend (Node.js)
 
 cd backend
