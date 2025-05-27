@@ -19,7 +19,6 @@ Este es un proyecto FullStack desarrollado con **React (Vite)** en el frontend y
 
 - Express
 - CORS
-- Body-parser
 
 ---
 
