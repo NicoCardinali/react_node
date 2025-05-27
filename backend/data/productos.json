@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "PC",
+    "precio": "20000",
+    "id": 1
+  },
+  {
+    "nombre": "Pendrive",
+    "precio": 2000,
+    "id": 4
+  }
+]
